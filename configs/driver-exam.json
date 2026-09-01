@@ -2,5 +2,5 @@
   "description": "Запись на сдачу прав в Рустави",
   "curl": "curl 'https://api-bookings.sa.gov.ge/api/v1/DrivingLicensePracticalExams2/DrivingLicenseExamsDates2?CategoryCode=4&CenterId=15' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:151.0) Gecko/20100101 Firefox/151.0' -H 'Accept: application/json, text/plain, */*' -H 'Accept-Language: ka' -H 'Authorization:' -H 'Origin: https://my.sa.gov.ge' -H 'Referer: https://my.sa.gov.ge/' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-site'",
   "schedule": "0 10 * * *",
-  "proxies": ["http://WcFufF:ffcHaj@72.56.131.215:8000"]
+  "proxies": ["http://EhZzVa:QVP6c5@72.56.130.178:8000"]
 }
